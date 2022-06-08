@@ -290,6 +290,9 @@ a:hover{
 .mb-4{
     margin-bottom: 25px;
 }
+.mt-5{
+    margin-top: 50px;
+}
 .blog-content blockquote {
     margin: 40px 0;
     background: rgba(0, 0, 0, 0.04);
